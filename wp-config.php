@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'chanisdark' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'admin' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'db665c405e10a72408332f508932ad6e8c70a01f409a0706' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
